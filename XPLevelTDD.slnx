@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="XPLevel.Tests/XPLevel.Tests.csproj" />
+  <Project Path="XPLevel/XPLevel.csproj" />
+</Solution>
